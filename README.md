@@ -12,7 +12,7 @@ The Blogspot is a Full Stack Development Project that was built with the Followi
 
 The Project is a blog project in which users can create, read , update and delete blogs. Users can filter the blogs based on the title.
 
-# Screenshots
+# Output
 <img src="./Screenshots/MERN1.PNG" alt="MERN1" width = 45% height = 45%></img>
 <img src="./Screenshots/MERN2.PNG" alt="MERN2" width = 45% height = 45%></img>
 <img src="./Screenshots/MERN3.PNG" alt="MERN3" width = 45% height = 45%></img>
