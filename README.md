@@ -1,7 +1,7 @@
 
-# MERNBlog
+# BlogSpot
 
-The MERNBlog is a Full Stack Development Project that was built with the Following Technologies:
+The Blogspot is a Full Stack Development Project that was built with the Following Technologies:
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/>&nbsp; 1- MongoDB -- A Nosql, Collection Based Databse <br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/>&nbsp;2- Express.js -- A Javascript framework that is designed to simplify the server side javascript building <br/>
