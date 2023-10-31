@@ -1,0 +1,14 @@
+version: "3"
+services:
+  app:
+    container_name: mernblogui
+    image: mernblog:1.0
+    build: ./client
+    ports:
+      - "3000:3000"
+  json-server:
+    container_name: mernblogserver
+    build: ./Server
+    image: mernserver:1.0
+    ports:
+      - "4000:4000"
